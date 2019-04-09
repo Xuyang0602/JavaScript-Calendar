@@ -1,0 +1,32 @@
+.box{ 
+	margin:0 auto; 
+	width:300px; 
+	background:#ddd; 
+	padding:5px;
+}
+.box li{ 
+	float:left; 
+	display:inline; 
+	width:50px; 
+	background:#666; 
+	color:#FFF; 
+	font-weight:bolder; 
+	margin:5px; 
+	text-align:center; 
+	padding:5px 0; 
+	cursor:pointer; 
+	border:1px solid #666; 
+	border-radius:5px;
+}
+.box .current{ 
+	background:#FFF;
+	color:#F00; 
+	border:1px 
+	solid #666
+}
+.box2{ 
+	background:#eee; 
+	border:1px solid #fff; 
+	padding:5px;
+	border-radius:3px;
+}
